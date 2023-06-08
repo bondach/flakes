@@ -41,11 +41,11 @@
       },
       "locked": {
         "dir": "neovim/base",
-        "lastModified": 1686239509,
-        "narHash": "sha256-/LvR2LM1X3hRezqU6a681rfDM/zu250KCE2+O9BdaqQ=",
+        "lastModified": 1686239695,
+        "narHash": "sha256-rvYmBmcRvrfhdY0P8NbuOZi635lfk/3/8pwMvsfcE+E=",
         "owner": "bondach",
         "repo": "flakes",
-        "rev": "4cf99ef1797cbc08aadac6a43844cddd94e7212f",
+        "rev": "b527aa252fd88a4dd7be4830c594839f0dcd07bd",
         "type": "github"
       },
       "original": {
