@@ -29,18 +29,18 @@
       },
       "locked": {
         "dir": "contrib",
-        "lastModified": 1680866789,
-        "narHash": "sha256-4uCPWnjSMU7ac6Q3LT+Em8lVk1MuSegxHMLGQRtFqAs=",
+        "lastModified": 1685359478,
+        "narHash": "sha256-G51qD7GklEn0JrneKSSqDDx0Odi7W2FjdQc0ZDE9ZK4=",
         "owner": "neovim",
         "repo": "neovim",
-        "rev": "040f1459849ab05b04f6bb1e77b3def16b4c2f2b",
+        "rev": "7d4bba7aa7a4a3444919ea7a3804094c290395ef",
         "type": "github"
       },
       "original": {
         "dir": "contrib",
         "owner": "neovim",
         "repo": "neovim",
-        "rev": "040f1459849ab05b04f6bb1e77b3def16b4c2f2b",
+        "rev": "7d4bba7aa7a4a3444919ea7a3804094c290395ef",
         "type": "github"
       }
     },
@@ -548,11 +548,11 @@
     "ts-g-scala": {
       "flake": false,
       "locked": {
-        "lastModified": 1685638587,
-        "narHash": "sha256-M6HOkS/E5OKDUpzG5hgXdD7ZkWIVIdbFUXW4TC+Spkg=",
+        "lastModified": 1688139280,
+        "narHash": "sha256-nCmQjLqunccXVgmNUMbMbm6SYuwCRtf1v2CFXrgKXqo=",
         "owner": "tree-sitter",
         "repo": "tree-sitter-scala",
-        "rev": "236c7b20dbddedb031ce40517fafc027434f6860",
+        "rev": "8062487fb3b7f3ce1bb7ce1fd1c84bed60c75203",
         "type": "github"
       },
       "original": {

@@ -97,8 +97,8 @@
     flake-utils.url = "github:numtide/flake-utils";
 
     neovim = {
-      # Тащим неовим версии 0.9.0
-      url = "github:neovim/neovim?dir=contrib&rev=040f1459849ab05b04f6bb1e77b3def16b4c2f2b";
+      # Тащим неовим версии 0.9.1
+      url = "github:neovim/neovim?dir=contrib&rev=7d4bba7aa7a4a3444919ea7a3804094c290395ef";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
