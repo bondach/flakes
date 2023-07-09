@@ -8,7 +8,7 @@ final: prev: {
 
   metals_config.settings = {
     javaHome = "${final.jdk}",
-    enableSemanticHighlighting = true,
+    enableSemanticHighlighting = false,
     metalsBinaryPath = "${final.metals}/bin/metals",
   }
 
