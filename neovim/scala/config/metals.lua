@@ -6,7 +6,7 @@ function metals_setup(javaHome, metalsBinPath)
   metals_config.capabilities = require('cmp_nvim_lsp').default_capabilities()
   metals_config.settings = {
     javaHome = javaHome,
-    enableSemanticHighlighting = true,
+    enableSemanticHighlighting = false,
     metalsBinaryPath = metalsBinPath,
   }
   metals_config.on_attach = function(client, bufnr)
