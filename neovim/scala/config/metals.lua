@@ -8,6 +8,9 @@ function metals_setup(javaHome, metalsBinPath)
     javaHome = javaHome,
     enableSemanticHighlighting = false,
     metalsBinaryPath = metalsBinPath,
+    showImplicitArguments = true,
+    showImplicitConversionsAndClasses = true,
+    showInferredType = true,
   }
   metals_config.on_attach = function(client, bufnr)
     require("metals").setup_dap()
